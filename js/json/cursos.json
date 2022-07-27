@@ -1,0 +1,767 @@
+{
+    "grad": [
+        {
+            "Nome": "Design de Games",
+            "Tipo": "Bacharelado",
+            "semestre": 8
+        },
+        {
+            "Nome": "Design de Games",
+            "Tipo": "Bacharelado",
+            "semestre": 8
+        },
+        {
+            "Nome": "Design de Produtos",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Design de Animação",
+            "Tipo": "Bacharelado",
+            "semestre": 8
+        },
+        {
+            "Nome": "Design Gráfico",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Design de Interiores",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Mediação",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Serviços Registrais e Notariais",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Serviços Judiciais",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Segurança Pública",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Segurança Privada",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Serviços Penais",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Licenciatura em Letras",
+            "Tipo": "Licenciatura",
+            "semestre": 8
+        },
+        {
+            "Nome": "Licenciatura em Geografia",
+            "Tipo": "Licenciatura",
+            "semestre": 8
+        },
+        {
+            "Nome": "Licenciatura em Letras - Inglês",
+            "Tipo": "Licenciatura",
+            "semestre": 8
+        },
+        {
+            "Nome": "Licenciatura em Pedagogia",
+            "Tipo": "Licenciatura",
+            "semestre": 8
+        },
+        {
+            "Nome": "Segunda Licenciatura em Pedagogia EAD",
+            "Tipo": "Licenciatura",
+            "semestre": 3
+        },
+        {
+            "Nome": "Licenciatura em História",
+            "Tipo": "Licenciatura",
+            "semestre": 8
+        },
+        {
+            "Nome": "Licenciatura em Artes Visuais",
+            "Tipo": "Licenciatura",
+            "semestre": 8
+        },
+        {
+            "Nome": "Matemática",
+            "Tipo": "Bacharelado",
+            "semestre": 6
+        },
+        {
+            "Nome": "Licenciatura em Matemática",
+            "Tipo": "Licenciatura",
+            "semestre": 8
+        },
+        {
+            "Nome": "Licenciatura em Ciências Biológicas",
+            "Tipo": "Licenciatura",
+            "semestre": 8
+        },
+        {
+            "Nome": "Educação Física",
+            "Tipo": "Bacharelado",
+            "semestre": 8
+        },
+        {
+            "Nome": "Licenciatura em Ciências Sociais",
+            "Tipo": "Licenciatura",
+            "semestre": 8
+        },
+        {
+            "Nome": "Engenharia de Produção",
+            "Tipo": "Bacharelado",
+            "semestre": 10
+        },
+        {
+            "Nome": "Engenharia Elétrica",
+            "Tipo": "Bacharelado",
+            "semestre": 10
+        },
+        {
+            "Nome": "Estatística",
+            "Tipo": "Bacharelado",
+            "semestre": 8
+        },
+        {
+            "Nome": "Engenharia de Controle e Automação",
+            "Tipo": "Bacharelado",
+            "semestre": 10
+        },
+        {
+            "Nome": "Engenharia de Computação",
+            "Tipo": "Bacharelado",
+            "semestre": 10
+        },
+        {
+            "Nome": "Engenharia Civil",
+            "Tipo": "Bacharelado",
+            "semestre": 10
+        },
+        {
+            "Nome": "Engenharia Mecânica",
+            "Tipo": "Bacharelado",
+            "semestre": 10
+        },
+        {
+            "Nome": "Negócios Imobiliários",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Ciências Contábeis",
+            "Tipo": "Bacharelado",
+            "semestre": 8
+        },
+        {
+            "Nome": "Gestão da Inovação e Empreendedorismo Digital",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Gestão da Qualidade",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Gestão Pública",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Gestão Comercial",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Marketing",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Gestão de Recursos Humanos",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Gestão de Negócios Digitais",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Gestão do Agronegócio",
+            "Tipo": "Tecnólogo",
+            "semestre": 6
+        },
+        {
+            "Nome": "Gestão da Produção Industrial",
+            "Tipo": "Tecnólogo",
+            "semestre": 6
+        },
+        {
+            "Nome": "Logística",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Processos Gerenciais",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Gestão Financeira",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Gestão Ambiental",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Comércio Exterior",
+            "Tipo": "Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Administração",
+            "Tipo": "Bacharelado",
+            "semestre": 8
+        },
+        {
+            "Nome": "Ciências Econômicas",
+            "Tipo": "Bacharelado",
+            "semestre": 8
+        },
+        {
+            "Nome": "Educação Física EAD (Licenciatura)",
+            "Tipo": "Licenciatura",
+            "semestre": 8
+        },
+        {
+            "Nome": "Gestão Hospitalar",
+            "Tipo": "Tecnólogo",
+            "semestre": 6
+        },
+        {
+            "Nome": "Segurança da Informação EAD",
+            "Tipo":"Tecnólogo",
+            "semestre": 5
+        },
+        {
+            "Nome": "Redes de Computadores",
+            "Tipo":"Tecnólogo",
+            "semestre": 5
+        },
+        {
+            "Nome": "Sistemas de Informação",
+            "Tipo":"Bacharelado",
+            "semestre": 8
+        },
+        {
+            "Nome": "Big Data e Inteligência Analítica",
+            "Tipo":"Tecnólogo",
+            "semestre": 5
+        },
+        {
+            "Nome": "Sistemas para Internet",
+            "Tipo":"Tecnólogo",
+            "semestre": 5
+        },
+        {
+            "Nome": "Análise e Desenvolvimento de Sistemas",
+            "Tipo":"Tecnólogo",
+            "semestre": 5
+        },
+        {
+            "Nome": "Jogos Digitais",
+            "Tipo":"Tecnólogo",
+            "semestre": 5
+        },
+        {
+            "Nome": "Ciência da Computação",
+            "Tipo":"Bacharelado",
+            "semestre": 8
+        },
+        {
+            "Nome": "Gestão da Tecnologia da Informação",
+            "Tipo":"Tecnólogo",
+            "semestre": 5
+        },
+        {
+            "Nome": "Eventos",
+            "Tipo":"Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Gestão do Turismo",
+            "Tipo":"Tecnólogo",
+            "semestre": 4
+        },
+        {
+            "Nome": "Gastronomia",
+            "Tipo":"Tecnólogo",
+            "semestre": 4
+        }
+    ],
+    "pos": [
+        {
+            "Nome": "MBA em Gestão Escolar com Ênfase em Educação Inclusiva"
+        },
+        {
+            "Nome": "Gramática e Texto"
+        },
+        {
+            "Nome": "Neurociência Aplicada à Educação"
+        },
+        {
+            "Nome": "Educação Inclusiva com ênfase em Tecnologias Assistivas"
+        },
+        {
+            "Nome": "Direitos Humanos, Gênero e Sexualidade"
+        },
+        {
+            "Nome": "Psicopedagogia"
+        },
+        {
+            "Nome": "Texto na Atualidade"
+        },
+        {
+            "Nome": "Educação a Distância e Inovação"
+        },
+        {
+            "Nome": "Educação na Atualidade"
+        },
+        {
+            "Nome": "Educação Bilíngue"
+        },
+        {
+            "Nome": "Projetos Sociais e Direitos Humanos"
+        },
+        {
+            "Nome": "Coordenação Pedagógica"
+        },
+        {
+            "Nome": "Aprendizagem e Inovação"
+        },
+        {
+            "Nome": "Docência em Enfermagem"
+        },
+        {
+            "Nome": "Docência da Língua Inglesa"
+        },
+        {
+            "Nome": "Psicopedagogia Institucional"
+        },
+        {
+            "Nome": "Alfabetização e Letramento"
+        },
+        {
+            "Nome": "Libras - Língua Brasileira de Sinais"
+        },
+        {
+            "Nome": "Educação Infantil"
+        },
+        {
+            "Nome": "Psicopedagogia Educacional"
+        },
+        {
+            "Nome": "Docência para o Ensino Superior"
+        },
+        {
+            "Nome": "Metodologia do Ensino Superior"
+        },
+        {
+            "Nome": "Saúde Pública com Ênfase em Saúde da Família"
+        },
+        {
+            "Nome": "Gestão em Enfermagem"
+        },
+        {
+            "Nome": "MBA em Gestão da saúde com ênfase em administração hospitalar"
+        },
+        {
+            "Nome": "Serviço Social e Gestão de Projetos Sociais"
+        },
+        {
+            "Nome": "Enfermagem do Trabalho"
+        },
+        {
+            "Nome": "Cosmetologia Estética"
+        },
+        {
+            "Nome": "Gestão Hospitalar"
+        },
+        {
+            "Nome": "MBA em Gestão da saúde com ênfase em administração hospitalar"
+        },
+        {
+            "Nome": "Negociação e Vendas"
+        },
+        {
+            "Nome": "MBA em Educação Corporativa"
+        },
+        {
+            "Nome": "MBA em Gestão de Startups"
+        },
+        {
+            "Nome": "Negócios em Mídias Digitais"
+        },
+        {
+            "Nome": "Psicologia Organizacional"
+        },
+        {
+            "Nome": "MBA em Gestão de Carreira e Empregabilidade"
+        },
+        {
+            "Nome": "MBA em Gestão de Varejo e E-commerce"
+        },
+        {
+            "Nome": "MBA em Tendências e Inovações"
+        },
+        {
+            "Nome": "MBA em Gestão de Negócios de Educação a Distância"
+        },
+        {
+            "Nome": "MBA em Gestão de Serviços Educacionais"
+        },
+        {
+            "Nome": "Recursos Humanos"
+        },
+        {
+            "Nome": "MBA em Gestão Pública e Direitos Humanos"
+        },
+        {
+            "Nome": "MBA em Gestão de Negócios de Educação"
+        },
+        {
+            "Nome": "Gestão de Varejo"
+        },
+        {
+            "Nome": "Relações Internacionais"
+        },
+        {
+            "Nome": "Gestão de E-commerce"
+        },
+        {
+            "Nome": "Coolhunting - Pesquisa de Tendências e Inovações"
+        },
+        {
+            "Nome": "MBA em Gestão Pública com ênfase em saúde"
+        },
+        {
+            "Nome": "Empreendedorismo e desenvolvimento de novos negócios"
+        },
+        {
+            "Nome": "Comunicação, Marcas e Consumo"
+        },
+        {
+            "Nome": "MBA em Gestão pública com ênfase em Meio Ambiente e Energia"
+        },
+        {
+            "Nome": "Comunicação e Marketing"
+        },
+        {
+            "Nome": "Gestão da Comunicação Digital e Mídias Sociais"
+        },
+        {
+            "Nome": "Comunicação e Produção de Moda"
+        },
+        {
+            "Nome": "Gestão da Comunicação em Redes Sociais"
+        },
+        {
+            "Nome": "Big Data e Marketing"
+        },
+        {
+            "Nome": "Produção Audiovisual Multiplataforma"
+        },
+        {
+            "Nome": "Influência Digital"
+        },
+        {
+            "Nome": "Assessoria e Gestão da Comunicação"
+        },
+        {
+            "Nome": "Comunicação nas Organizações"
+        },
+        {
+            "Nome": "Práticas de Consumo e Mídias Sociais"
+        },
+        {
+            "Nome": "Jornalismo Investigativo"
+        },
+        {
+            "Nome": "Big Data e Comunicação"
+        },
+        {
+            "Nome": "Mídias Sociais nas Organizações"
+        },
+        {
+            "Nome": "Comunicação em Crises Organizacionais"
+        },
+        {
+            "Nome": "Educomunicação"
+        },
+        {
+            "Nome": "Jogos Digitais"
+        },
+        {
+            "Nome": "Gamificação em Contextos Educacionais"
+        },
+        {
+            "Nome": "Big Data"
+        },
+        {
+            "Nome": "Segurança da Informação e Gestão de TI"
+        },
+        {
+            "Nome": "MBA em Gestão da Qualidade em Tecnologia da Informação"
+        },
+        {
+            "Nome": "Desenvolvimento de Games"
+        },
+        {
+            "Nome": "Gamificação"
+        },
+        {
+            "Nome": "Gestão de Redes de Computadores e Comunicação de Dados"
+        },
+        {
+            "Nome": "MBA em Defesa cibernética nas organizações"
+        },
+        {
+            "Nome": "Data Science"
+        },
+        {
+            "Nome": "User Experience"
+        },
+        {
+            "Nome": "Projetos ágeis para aplicativos móveis"
+        },
+        {
+            "Nome": "Gestão de Business Intelligence"
+        },
+        {
+            "Nome": "Business Intelligence e Analytics"
+        },
+        {
+            "Nome": "Governança de Tecnologia da Informação e Inovação"
+        },
+        {
+            "Nome": "Tecnologias Educacionais"
+        },
+        {
+            "Nome": "Desenvolvimento de Software com Metodologias Ágeis"
+        },
+        {
+            "Nome": "Direito Administrativo e Direito Tributário"
+        },
+        {
+            "Nome": "Processo Civil e Processo do Trabalho"
+        },
+        {
+            "Nome": "Processo Civil"
+        },
+        {
+            "Nome": "Especialização em Direito Previdenciário"
+        },
+        {
+            "Nome": "Especialização em Direito e Processo Penal"
+        },
+        {
+            "Nome": "Direito Empresarial e Processo Civil"
+        },
+        {
+            "Nome": "Resolução de Conflitos e Processo Civil"
+        },
+        {
+            "Nome": "Resolução de Conflitos e Direito do Trabalho"
+        },
+        {
+            "Nome": "Direito Realde Família e de Sucessões e Processo Civil"
+        },
+        {
+            "Nome": "MBA em Gestão de Projetos Sociais e Culturais"
+        },
+        {
+            "Nome": "Customer Experience em Turismo"
+        },
+        {
+            "Nome": "Gastronomia"
+        },
+        {
+            "Nome": "Confeitaria e Panificação"
+        },
+        {
+            "Nome": "Gastronomia Funcional"
+        },
+        {
+            "Nome": "Segurança Alimentar"
+        },
+        {
+            "Nome": "Cozinha Brasileira"
+        },
+        {
+            "Nome": "MBA em Gestão de Negócios em Turismo"
+        },
+        {
+            "Nome": "Gestão de Negócios em Gastronomia"
+        },
+        {
+            "Nome": "MBA em Gestão Escolar"
+        },
+        {
+            "Nome": "MBA em Gestão Educacional"
+        },
+        {
+            "Nome": "MBA em Turismo e Hotelaria"
+        },
+        {
+            "Nome": "MBA em gestão de serviços de Saúde"
+        },
+        {
+            "Nome": "MBA em Controladoria, Auditoria e Compliance"
+        },
+        {
+            "Nome": "MBA em Gestão de Marcas"
+        },
+        {
+            "Nome": "MBA em Gestão Estratégica de Negócios"
+        },
+        {
+            "Nome": "MBA em Planejamento Tributário"
+        },
+        {
+            "Nome": "MBA em Finanças Corporativas"
+        },
+        {
+            "Nome": "MBA em Gestão de Processos"
+        },
+        {
+            "Nome": "MBA em Liderança Estratégica"
+        },
+        {
+            "Nome": "MBA em Comércio Exterior"
+        },
+        {
+            "Nome": "MBA em Gestão de Energia, Petróleo e Gás"
+        },
+        {
+            "Nome": "MBA em Gestão de Projetos"
+        },
+        {
+            "Nome": "MBA em Marketing Estratégico"
+        },
+        {
+            "Nome": "MBA em Consultoria Empresarial"
+        },
+        {
+            "Nome": "MBA em Finanças e Banking"
+        },
+        {
+            "Nome": "MBA em Logística e Supply Chain Management"
+        },
+        {
+            "Nome": "MBA em Negócios Digitais"
+        },
+        {
+            "Nome": "Negócios de Moda"
+        },
+        {
+            "Nome": "MBA em Gestão de Serviços"
+        },
+        {
+            "Nome": "MBA em Logística Empresarial"
+        },
+        {
+            "Nome": "MBA em Negócios Imobiliários"
+        },
+        {
+            "Nome": "MBA em Gestão Estratégica de Pessoas"
+        },
+        {
+            "Nome": "MBA em Gestão Empresarial"
+        },
+        {
+            "Nome": "MBA em Marketing e Vendas"
+        },
+        {
+            "Nome": "MBA em Negócios Internacionais"
+        },
+        {
+            "Nome": "MBA em Gestão Estratégica de Vendas"
+        },
+        {
+            "Nome": "MBA em Gestão Pública"
+        },
+        {
+            "Nome": "MBA em Inteligência Competitiva"
+        },
+        {
+            "Nome": "MBA em Marketing Digital"
+        },
+        {
+            "Nome": "MBA em Gestão da Tecnologia da Informação"
+        },
+        {
+            "Nome": "MBA em Gastronomia e Gestão de Negócios em Alimentos e Bebidas"
+        },
+        {
+            "Nome": "MBA em Gestão de Eventos"
+        }
+    ],
+    "tecnico": [
+        {
+            "Nome": "Tecnico em secretariado escolar"
+        },
+        {
+            "Nome": "Tecnico em transações imobiliárias"
+        },
+        {
+            "Nome": "Tecnico em Telecomunicações"
+        },
+        {
+            "Nome": "Tecnico em eletroeletrônica"
+        },
+        {
+            "Nome": "Tecnico em contabilidade"
+        },
+        {
+            "Nome": "Tecnico em eletrotecnica"
+        },
+        {
+            "Nome": "Tecnico em segurança do trabalho"
+        },
+        {
+            "Nome": "Tecnico em edificações"
+        },
+        {
+            "Nome": "Tecnico em meio ambiente"
+        },
+        {
+            "Nome": "Tecnico em mecânica"
+        },
+        {
+            "Nome": "Tecnico em mineração"
+        },
+        {
+            "Nome": "Tecnico em agrimensura"
+        },
+        {
+            "Nome": "Especialização em topografia aplicada ao georreferenciamento"
+        }
+    ]
+}

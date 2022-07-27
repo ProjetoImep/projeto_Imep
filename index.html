@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Candidatos</title>
+
+    <link
+      rel="shortcut icon"
+      href="assets/favicon/favicon.ico"
+      type="image/x-icon"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/favicon/apple-touch-icon.png"
+    />
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/favicon/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/favicon/favicon-16x16.png"
+    />
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/favicon/favicon-16x16.png"
+    />
+    <link rel="manifest" href="assets/favicon/site.webmanifest" />
+
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#1C466E" />
+
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <main class="candidatos">
+      <form id="dados_Aluno">
+        <div class="logo">
+          <img
+            src="assets/projetoImep.webp"
+            alt=""
+            class="projeto mini_logos"
+          />
+
+          <img
+            src="assets/fraseConhecimento.webp"
+            alt="anima-ecossistema"
+            class="conhecimento mini_logos"
+          />
+        </div>
+        <input type="text" name="Nome" id="nome" placeholder="Nome completo" />
+
+        <input
+          type="number"
+          name="idade"
+          max="100"
+          min="0"
+          id="idade"
+          placeholder="Idade"
+        />
+
+        <input type="email" name="Email" id="email" placeholder="Email" />
+
+        <input
+          type="text"
+          name="Telefone"
+          id="telInput"
+          placeholder="Celular para contato"
+          maxlength="11"
+          oninput="mask('tel')"
+          required
+        />
+
+        <input
+          min="1940"
+          max="2030"
+          type="number"
+          name="Ensino_medio"
+          id="conclusao"
+          placeholder="Ano de conclusão do ensino médio"
+          checked
+        />
+
+        <select name="Grau" id="interesse" required>
+          <option disabled selected>Grau de interesse</option>
+          <option value="grad">Graduação</option>
+          <option value="pos">Pós-Graduação</option>
+          <option value="eja">EJA - Ensino médio</option>
+          <option value="tecnico">Curso Técnico</option>
+        </select>
+
+        <select name="Cursos" id="curso">
+          <option disabled selected>Curso(selecione o grau)</option>
+        </select>
+
+        <select name="Conheceu via" id="conheceu" required>
+          <option disabled selected>Por onde nos conheceu</option>
+          <option value="Ação">Acão Empresa</option>
+          <option value="Panfleto">Panfleto</option>
+          <option value="Facebook">Facebook</option>
+          <option value="Instagram">Instagram</option>
+          <option value="Indicação">Indicação</option>
+        </select>
+
+        <button id="enviar" type="submit">Enviar</button>
+      </form>
+    </main>
+
+    <script src="js/dados.js" async defer></script>
+    <script src="js/mask.js" async defer></script>
+  </body>
+</html>
