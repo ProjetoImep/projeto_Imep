@@ -143,11 +143,11 @@ button:active {
   }
 
   .logo {
-    margin-bottom: 15%;
+    margin-bottom: 150px;
   }
   
   .logos {
-    margin-bottom: 15%;
+    margin-bottom: 150px;
   }
 
   input {
@@ -166,7 +166,7 @@ button:active {
 
   .mini_logos {
     width: 40%;
-    margin: -2% 1%;
+    margin: -2% 0;
   }
 
   .conhecimento {
