@@ -160,14 +160,9 @@ button:active {
     box-shadow: 0 0 0 30px #199a8f inset;
   }
 
-  .logo {
-    width: 100%;
-    margin-bottom: 50px;
-  }
-
   .mini_logos {
     width: 40%;
-    margin: -2% 2%;
+    margin: -2% 5%;
   }
 
   .conhecimento {
@@ -177,8 +172,6 @@ button:active {
   .projeto {
     left: 0;
   }
-
-  
 
   select {
     width: 80%;
