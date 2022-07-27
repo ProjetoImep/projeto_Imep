@@ -1,6 +1,11 @@
 {
     "grad": [
         {
+            "Nome": "Direito",
+            "Tipo": "Bacharelado",
+            "semestre": 8
+        },
+        {
             "Nome": "Design de Games",
             "Tipo": "Bacharelado",
             "semestre": 8
@@ -724,6 +729,9 @@
         }
     ],
     "tecnico": [
+        {
+            "Nome": "Tecnico em enfermagem"
+        },
         {
             "Nome": "Tecnico em secretariado escolar"
         },
