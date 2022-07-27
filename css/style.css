@@ -143,11 +143,11 @@ button:active {
   }
 
   .logo {
-    margin-bottom: 150px;
+    margin-bottom: 50px;
   }
   
   .logos {
-    margin-bottom: 150px;
+    margin-bottom: 50px;
   }
 
   input {
@@ -170,7 +170,7 @@ button:active {
   }
 
   .conhecimento {
-    right: 0;
+    right: 10px;
   }
   
   .projeto {
