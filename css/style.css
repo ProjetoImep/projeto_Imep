@@ -162,11 +162,12 @@ button:active {
 
   .logo {
     width: 100%;
+    margin-bottom: 5%;
   }
 
   .mini_logos {
     width: 30%;
-    margin: -2% 1% 8%;
+    margin: -2% 1%;
   }
 
   .conhecimento {
