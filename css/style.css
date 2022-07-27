@@ -139,7 +139,7 @@ button:active {
 
 @media screen and (max-width: 912px) {
   #dados_Aluno {
-    height: 90vh;
+    height: 80vh;
   }
 
   .logos {
@@ -166,7 +166,7 @@ button:active {
 
   .mini_logos {
     width: 30%;
-    margin: -2% 4%;
+    margin: -2% 3% 5%;
   }
 
   .conhecimento {
