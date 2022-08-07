@@ -44,78 +44,102 @@
     <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
-    <main class="candidatos">
-      <form id="dados_Aluno">
-        <div class="logo">
-          <img
-            src="assets/projetoImep.webp"
-            alt=""
-            class="projeto mini_logos"
+    <div class="wrapper">
+      <h1 class="title">Cadastro para curso livre</h1>
+
+      <main class="candidatos">
+        <form id="dados_Aluno">
+          <div class="logo">
+            <img
+              src="assets/projetoImep.webp"
+              alt=""
+              class="projeto mini_logos"
+            />
+
+            <img
+              src="assets/fraseConhecimento.webp"
+              alt="anima-ecossistema"
+              class="conhecimento mini_logos"
+            />
+          </div>
+          <input
+            type="text"
+            name="Nome"
+            id="nome"
+            placeholder="Nome completo"
+            required
           />
 
-          <img
-            src="assets/fraseConhecimento.webp"
-            alt="anima-ecossistema"
-            class="conhecimento mini_logos"
+          <input
+            type="number"
+            name="idade"
+            max="100"
+            min="0"
+            id="idade"
+            placeholder="Idade"
+            required
           />
-        </div>
-        <input type="text" name="Nome" id="nome" placeholder="Nome completo" />
 
-        <input
-          type="number"
-          name="idade"
-          max="100"
-          min="0"
-          id="idade"
-          placeholder="Idade"
-        />
+          <input
+            type="email"
+            name="Email"
+            id="email"
+            placeholder="Email"
+            required
+          />
 
-        <input type="email" name="Email" id="email" placeholder="Email" />
+          <input
+            type="text"
+            name="Telefone"
+            id="telInput"
+            placeholder="Celular para contato"
+            maxlength="11"
+            oninput="mask('tel')"
+            required
+          />
 
-        <input
-          type="text"
-          name="Telefone"
-          id="telInput"
-          placeholder="Celular para contato"
-          maxlength="11"
-          oninput="mask('tel')"
-          required
-        />
+          <input
+            min="1940"
+            max="2030"
+            type="number"
+            name="Ensino_medio"
+            id="conclusao"
+            placeholder="Ano de conclusão do ensino médio"
+            required
+          />
+          <label for="grau" class="full_cursos"
+            >Além do curso livre Você tem interesse em algum dos cursos citados
+            abaixo:</label
+          >
+          <select name="Grau" id="interesse">
+            <option disabled selected>Grau de interesse</option>
+            <option value="grad">Graduação</option>
+            <option value="pos">Pós-Graduação</option>
+            <option value="eja">EJA - Ensino médio</option>
+            <option value="tecnico">Curso Técnico</option>
+          </select>
 
-        <input
-          min="1940"
-          max="2030"
-          type="number"
-          name="Ensino_medio"
-          id="conclusao"
-          placeholder="Ano de conclusão do ensino médio"
-          checked
-        />
+          <select name="Cursos" id="curso">
+            <option disabled selected>Curso(selecione o grau)</option>
+          </select>
 
-        <select name="Grau" id="interesse" required>
-          <option disabled selected>Grau de interesse</option>
-          <option value="grad">Graduação</option>
-          <option value="pos">Pós-Graduação</option>
-          <option value="eja">EJA - Ensino médio</option>
-          <option value="tecnico">Curso Técnico</option>
-        </select>
+          <select name="Conheceu via" id="conheceu">
+            <option disabled selected>Por onde nos conheceu</option>
+            <option value="Ação">Acão Empresa</option>
+            <option value="Panfleto">Panfleto</option>
+            <option value="Facebook">Facebook</option>
+            <option value="Instagram">Instagram</option>
+            <option value="Indicação">Indicação</option>
+          </select>
 
-        <select name="Cursos" id="curso">
-          <option disabled selected>Curso(selecione o grau)</option>
-        </select>
+          <button id="enviar" type="submit">Enviar</button>
+        </form>
+      </main>
 
-        <select name="Conheceu via" id="conheceu" required>
-          <option disabled selected>Por onde nos conheceu</option>
-          <option value="Ação">Acão Empresa</option>
-          <option value="Panfleto">Panfleto</option>
-          <option value="Facebook">Facebook</option>
-          <option value="Instagram">Instagram</option>
-          <option value="Indicação">Indicação</option>
-        </select>
-
-        <button id="enviar" type="submit">Enviar</button>
-      </form>
-    </main>
+      <div class="whatsapp">
+        <a href="https://wa.me/5511991401102?text=Boa%20tarde,%20tenho%20interesse%20nos%20cursos%20livres." target="_blank" title="TWhatsapp" class="whatsapp_btn"><img src="assets/whatsapp-logo-1_adobe_express.svg" alt="Whatsapp"></a>
+      </div>
+    </div>
 
     <script src="js/dados.js" async defer></script>
     <script src="js/mask.js" async defer></script>

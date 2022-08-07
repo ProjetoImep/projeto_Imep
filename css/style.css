@@ -5,9 +5,21 @@
 }
 
 body {
+  background-image: url("../assets/Background.jfif");
+}
+
+.wrapper {
   height: 100vh;
   width: 100vw;
-  background-image: url("../assets/Background.jfif");
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.title {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: whitesmoke;
 }
 
 .candidatos {
@@ -15,8 +27,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 100vw;
-  height: 100vh;
   z-index: 5;
 }
 
@@ -63,6 +73,14 @@ body {
   -webkit-backdrop-filter: blur(10px);
   border-radius: 10px;
   border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.full_cursos {
+  width: 20%;
+  text-align: center;
+  color: whitesmoke;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
 }
 
 /* ALterando Inputs */
@@ -133,11 +151,35 @@ button:active {
   transform: scale(0.98);
 }
 
+/*Whatsapp Redirect*/
+.whatsapp {
+  width: 100px;
+  position: absolute;
+  align-self: flex-end;
+  bottom: 0;
+  margin: 0 10px 10px 0;
+  z-index: 50;
+  transform: rotateY(150deg);
+}
+
 /* Fim */
 
 /* Responsividade */
 
 @media screen and (max-width: 912px) {
+  .title {
+    font-size: 24px;
+  }
+
+  .full_cursos {
+    width: 80%;
+    font-size: 10px;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+  }
+
   #dados_Aluno {
     height: 80vh;
   }
@@ -184,6 +226,11 @@ button:active {
 
   input::placeholder {
     font-size: 12px;
+  }
+
+  .whatsapp {
+    width: 15%;
+    margin: 0 10px 5px 0;
   }
 }
 
