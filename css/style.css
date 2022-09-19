@@ -151,11 +151,18 @@ button:active {
   transform: scale(0.98);
 }
 
+/* Form Footer */
+#form_footer {
+  display: flex;
+  width: 40%;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
 /*Whatsapp Redirect*/
 .whatsapp {
-  width: 100px;
-  position: absolute;
-  align-self: flex-end;
+  width: 80px;
   bottom: 0;
   margin: 0 10px 10px 0;
   z-index: 50;
